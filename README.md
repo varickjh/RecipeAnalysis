@@ -553,7 +553,8 @@ R^2 Justification:
 </ul>
 
 ### Visual Exploration of the Problem
-1. Distribution of calories:
+<ol>
+<li> Distribution of calories:
 <iframe
   src="assets/CaloriesDistribution2.html"
   width="800"
@@ -563,7 +564,7 @@ R^2 Justification:
 
 The distribution of calories is a right/positively skewed distribution, indicating that most recipes are clustered towards lower calories, with a fewer recipes with higher calories
 
-2. Scatter Plot of n_ingredients and calories
+<li> Scatter Plot of n_ingredients and calories
 <iframe
   src="assets/n_ingredientsCaloriesScatter.html"
   width="800"
@@ -573,7 +574,7 @@ The distribution of calories is a right/positively skewed distribution, indicati
 
 The scatterplot displays no clear relationship between the two variables.
 
-3. Scatter Plot of n_steps and calories
+<li> Scatter Plot of n_steps and calories
 <iframe
   src="assets/n_stepsCaloriesScatter.html"
   width="800"
@@ -583,7 +584,7 @@ The scatterplot displays no clear relationship between the two variables.
 
 The scatterplot displays no clear relationship between the two variables, but it suggests that most of the recipes in the dataset clustered towards less than or equal to 40 steps. 
 
-4. Scatter Plot of protein and calories
+<li> Scatter Plot of protein and calories
 <iframe
   src="assets/proteinCaloriesScatter.html"
   width="800"
@@ -593,7 +594,7 @@ The scatterplot displays no clear relationship between the two variables, but it
 
 The scatterplot shows that recipes with higher protein levels often are higher in calories, showing a direct positive relationship.
 
-5. Scatter Plot of sodium and calories
+<li> Scatter Plot of sodium and calories
 <iframe
   src="assets/sodiumCaloriesScatter.html"
   width="800"
@@ -603,7 +604,7 @@ The scatterplot shows that recipes with higher protein levels often are higher i
 
 The scatterplot displays no clear relationship between sodium and calories, where there is an even distribution of varying sodium content and all calorie counts. 
 
-6. Scatter Plot of saturated_fat and calories
+<li> Scatter Plot of saturated_fat and calories
 <iframe
   src="assets/saturated_fatCaloriesScatter.html"
   width="800"
@@ -613,7 +614,7 @@ The scatterplot displays no clear relationship between sodium and calories, wher
 
 The scatterplot shows that recipes with higher satured fat levels often are higher in calories, showing a direct positive relationship.
 
-7. Scatter Plot of sugar and calories
+<li> Scatter Plot of sugar and calories
 <iframe
   src="assets/sugarCaloriesScatter.html"
   width="800"
@@ -622,6 +623,8 @@ The scatterplot shows that recipes with higher satured fat levels often are high
 ></iframe>
 
 The scatterplot shows that recipes with higher sugar levels often are higher in calories, showing a direct positive relationship.
+
+</ol>
 
 ### Importance of This Prediction Problem
 Predicting calories caters to many audiences, including:
