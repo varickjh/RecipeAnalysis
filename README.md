@@ -475,6 +475,7 @@ The test statistic for our this hypothesis test is absolute difference in the me
 <li>Compute the p-value as the proportion of permuted test statistics greater than or equal to the observed test statistic.
 </ol>
 
+
 ### **Results & Visualization**
 
 <ul>
