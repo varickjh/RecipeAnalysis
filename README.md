@@ -140,13 +140,13 @@ This plot suggests that while recipes with high ratings span a range of calorie 
 **Box Plot: Average Rating by Number of Steps**
 
 <iframe
-  src="assets/IngredientsAverageRatingBox.html"
+  src="assets/StepsAverageRatingBox.html"
   width="800"
   height="600"
   frameborder="0"
 ></iframe>
 
-This box plot indicates that recipes with fewer ingredients have more consistent ratings, while those with more ingredients show greater variability.
+This box plot indicates that recipes with fewer preparation steps have more consistent average ratings, and those with more have more varying average ratings.
 
 ### Interesting Aggregates
 
