@@ -513,4 +513,8 @@ The absolute difference in MAE between the two groups.
 
 Since the p-value is below 0.05, we reject H₀, indicating that the model's performance differs between Simple and Complex Recipes. This suggests potential unfairness that warrants further investigation.
 
+As the permutation test's p-value of 0 is less than the chosen significance level of 0.05, we reject the null hypothesis. Hence,  the observed difference in MAE is statistically significant, and it indicates that the model's performance does differ between the two groups recipes, performing slightly better for one group of recipes. Hence, there is potential unfairness in the model between Simple and Complex Recipes, suggesting areas for improvement. 
+
+The histogram below illustrates the distribution of permutation test statistics under the null hypothesis, with the observed difference marked by the red dashed line.
+
 <iframe src="assets/FairnessAnalysis.html" width="800" height="600" frameborder="0"></iframe>
