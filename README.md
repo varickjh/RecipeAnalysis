@@ -1,4 +1,4 @@
-# Understanding Recipe Ratings and Building Prediction Models to Predict Calories
+# A Food Data Analysis: Recipe Ratings & Calories
 
 **Authors:** Clayton Hammen Tan, Varick Janiro Hasim
 
