@@ -464,7 +464,7 @@ The test statistic for our this hypothesis test is absolute difference in the me
 <li>Hard Recipes, defined as recipes with number of steps to make more than nine steps ('n_steps' > 9)</li>
 </ul>
 
-#### Significance Level: 0.05</li>
+#### Significance Level: 0.05
 
 
 ### **Methodology**
